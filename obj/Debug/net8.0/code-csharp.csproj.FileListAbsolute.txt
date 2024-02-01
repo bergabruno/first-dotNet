@@ -12,3 +12,4 @@ C:\Users\bruni\code-csharp\obj\Debug\net8.0\refint\code-csharp.dll
 C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.pdb
 C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.genruntimeconfig.cache
 C:\Users\bruni\code-csharp\obj\Debug\net8.0\ref\code-csharp.dll
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.sourcelink.json
