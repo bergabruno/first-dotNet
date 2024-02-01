@@ -1,0 +1,14 @@
+C:\Users\bruni\code-csharp\bin\Debug\net8.0\code-csharp.exe
+C:\Users\bruni\code-csharp\bin\Debug\net8.0\code-csharp.deps.json
+C:\Users\bruni\code-csharp\bin\Debug\net8.0\code-csharp.runtimeconfig.json
+C:\Users\bruni\code-csharp\bin\Debug\net8.0\code-csharp.dll
+C:\Users\bruni\code-csharp\bin\Debug\net8.0\code-csharp.pdb
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.AssemblyInfoInputs.cache
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.AssemblyInfo.cs
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.csproj.CoreCompileInputs.cache
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.dll
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\refint\code-csharp.dll
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.pdb
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\code-csharp.genruntimeconfig.cache
+C:\Users\bruni\code-csharp\obj\Debug\net8.0\ref\code-csharp.dll
