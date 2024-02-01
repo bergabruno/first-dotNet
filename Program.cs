@@ -19,7 +19,7 @@ namespace Program
         {
             Random rnd = new Random();
 
-            int[] numeros = new int[10];
+            int[] numeros = new int[rnd.Next(10,50)];
             int bigger = int.MinValue;
             int smaller = int.MaxValue;
 
